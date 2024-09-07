@@ -5,7 +5,9 @@ Her work "She • Yu" won the third prize in the 10th Zhejiang University Studen
 
 <img src="https://github.com/user-attachments/assets/17fa4890-46e6-42be-8b04-b4e5c66dd428" alt="作品预览图1" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/17fa4890-46e6-42be-8b04-b4e5c66dd428" alt="作品预览图2" width="300"/>
+<img src="https://github.com/user-attachments/assets/44192ee3-93ff-4127-af41-c80494a73cfd" alt="作品预览图2" width="300"/>
+
+
 
 <img src="https://github.com/user-attachments/assets/9d33c915-d23c-4e8e-be95-8bc0dd92d4ad" alt="2022浙江省摄影竞赛" width="300"/>
 
